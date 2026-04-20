@@ -26,11 +26,10 @@ Data was exported by Wyscout (football database)
 ⚔️ Offensive & defensive performance metrics
 📈 Match-by-match performance breakdown
 📁 Project Structure
-dashboard.pbix → Main Power BI dashboard file
+Projeto PowerBI.pbix → Main Power BI dashboard file
 images/ → Dashboard screenshots
-data/ (optional) → Dataset used
 🚀 How to Use
-Download the dashboard.pbix file
+Download the `Projeto PowerBI.pbix` file
 Open it using Microsoft Power BI Desktop
 Interact with filters and visuals
 🛠️ Tools & Technologies
